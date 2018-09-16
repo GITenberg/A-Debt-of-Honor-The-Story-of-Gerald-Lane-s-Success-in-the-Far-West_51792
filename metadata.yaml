@@ -1,0 +1,53 @@
+_repo: A-Debt-of-Honor-The-Story-of-Gerald-Lane-s-Success-in-the-Far-West_51792
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Honor -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'West (U.S.) -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Colorado -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: 'A Debt of Honor: The Story of Gerald Lane''s Success in the Far West'
+url: http://www.gutenberg.org/ebooks/51792
